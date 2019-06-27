@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Beginner 
   <br><br>
-  <a href="https://github.com/khang-chung">View My Github Profile</a> 
+  <a href="https://github.com/khang-chung">View My Github Profile</a>
+  <a href="">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 #theme: jekyll-theme-midnight
