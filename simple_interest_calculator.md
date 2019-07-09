@@ -27,6 +27,6 @@ This program is used to calculate simple interest, or the interest charge on a l
 
 **Source Code**
  <br>
-<a href "https://github.com/khang-chung/simple_interest_calculator"> Project Repository on Github </a>
+<a href= "https://github.com/khang-chung/simple_interest_calculator"> Project Repository on Github </a>
 
 ---
