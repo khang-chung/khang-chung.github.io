@@ -8,19 +8,19 @@
 [Simple Interest Calculator](simple_interest_calculator.md)
 <a href = "https://khang-chung.github.io/simple_interest_calculator.html" > <img src ="https://github.com/khang-chung/khang-chung.github.io/blob/master/images/simple%20interest%20calculator%20image.png?raw=true" /> </a>
 <br>
-My very first coding project done in the Processing IDE.
+My very first coding project done in the <a href ="https://processing.org/">Processing IDE</a>.
 
 ---
 <!---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 -->
----
+
 <!---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 -->
----
+
 
 
 
@@ -32,10 +32,10 @@ My very first coding project done in the Processing IDE.
 - [Project 5 Title](http://example.com/)
 -->
 
----
 
 
 
 
----
+
+
 
