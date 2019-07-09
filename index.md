@@ -6,7 +6,8 @@
 
 
 [Simple Interest Calculator](simple_interest_calculator.md)
-<img src=""/>
+<img src="https://github.com/khang-chung/khang-chung.github.io/blob/master/images/simple%20interest%20calculator%20image.png?raw=true"/>
+My very first coding project done in the Processing IDE.
 
 ---
 <!---
