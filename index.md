@@ -5,7 +5,7 @@
 ### Projects
 
 
-[Simple Interest Calculator](simple_interes_calculator.md)
+[Simple Interest Calculator](simple_interest_calculator.md)
 <img src=""/>
 
 ---
