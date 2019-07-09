@@ -3,7 +3,7 @@
 
 **Description**
 <br>
-This simple interest calculator was my very first coding project in **Java**. I used the <a href = "https://processing.org/">Processing</a> integrated development environment(IDE) to build this calculator. In order to implement the button and input functions of the program, I used the <a href = "http://www.sojamo.de/libraries/controlP5/"> ControlP5 library </a>.
+This simple interest calculator was my very first coding project in <a href ="https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html">Java</a>. I used the <a href = "https://processing.org/">Processing</a> integrated development environment(IDE) to build this calculator. In order to implement the button and input functions of the program, I used the <a href = "http://www.sojamo.de/libraries/controlP5/"> ControlP5 library </a>.
 <br>
 This program is used to calculate simple interest, or the interest charge on a loan. The calculator displays both the interest as well as the total(the beginning amount plus the interest).
 
@@ -14,9 +14,9 @@ This program is used to calculate simple interest, or the interest charge on a l
 <br>
 
 **Downloads**
-
 <a href = "https://github.com/khang-chung/khang-chung.github.io/blob/master/downloads/application.windows32.zip?raw=true"> Windows 32 Download</a>
 <br>
 <a href = "https://github.com/khang-chung/khang-chung.github.io/blob/master/downloads/application.windows64.zip?raw=true"> Windows 64 Download</a>
+
 ---
  
