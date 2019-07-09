@@ -14,6 +14,9 @@ This program is used to calculate simple interest, or the interest charge on a l
 <br>
 
 **Downloads**
+<br>
+*You need to install <a href = "https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java 8</a> before downloading the following files. If you already have Java installed, proceed to the downloads below.*
+<br>
 <a href = "https://github.com/khang-chung/khang-chung.github.io/blob/master/downloads/application.windows32.zip?raw=true"> Windows 32 Download</a>
 <br>
 <a href = "https://github.com/khang-chung/khang-chung.github.io/blob/master/downloads/application.windows64.zip?raw=true"> Windows 64 Download</a>
