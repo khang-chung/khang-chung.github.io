@@ -22,4 +22,9 @@ This program is used to calculate simple interest, or the interest charge on a l
 <a href = "https://github.com/khang-chung/khang-chung.github.io/blob/master/downloads/application.windows64.zip?raw=true"> Windows 64 Download</a>
 
 ---
- 
+
+**Source Code**
+ <br>
+<a href "https://github.com/khang-chung/simple_interest_calculator"> Project Repository on Github </a>
+
+---
