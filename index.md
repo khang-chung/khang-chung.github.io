@@ -5,8 +5,8 @@
 ### Projects
 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Simple Interest Calculator](simple_interes_calculator.md)
+<img src=""/>
 
 ---
 <!---
@@ -20,7 +20,7 @@
 -->
 ---
 
-### 
+
 
 <!---
 - [Project 1 Title](http://example.com/)
