@@ -13,6 +13,7 @@ This program is used to calculate simple interest, or the interest charge on a l
 <img src = "https://github.com/khang-chung/khang-chung.github.io/blob/master/images/simple%20interest%20calculator%20image%203.png?raw=true">
 <br>
 ---
+
 **Downloads**
 <br>
 *You need to install <a href = "https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java 8</a> before downloading the following files. If you already have Java installed, proceed to the downloads below.*
