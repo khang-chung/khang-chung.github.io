@@ -15,6 +15,7 @@ This program is used to calculate simple interest, or the interest charge on a l
 **Downloads**
 
 <a href = "https://github.com/khang-chung/khang-chung.github.io/blob/master/downloads/application.windows32.zip?raw=true"> Windows 32 Download</a>
+<br>
 <a href = "https://github.com/khang-chung/khang-chung.github.io/blob/master/downloads/application.windows64.zip?raw=true"> Windows 64 Download</a>
 ---
  
