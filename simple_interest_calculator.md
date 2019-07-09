@@ -12,6 +12,7 @@ This program is used to calculate simple interest, or the interest charge on a l
 
 <img src = "https://github.com/khang-chung/khang-chung.github.io/blob/master/images/simple%20interest%20calculator%20image%203.png?raw=true">
 <br>
+
 ---
 
 **Downloads**
