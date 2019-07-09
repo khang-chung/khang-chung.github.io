@@ -6,7 +6,7 @@
 
 
 [Simple Interest Calculator](simple_interest_calculator.md)
-<img src="https://github.com/khang-chung/khang-chung.github.io/blob/master/images/simple%20interest%20calculator%20image.png?raw=true"/>
+<a href = "simple_interest_calculator.md" <img src="https://github.com/khang-chung/khang-chung.github.io/blob/master/images/simple%20interest%20calculator%20image.png?raw=true" </a>
 <br>
 My very first coding project done in the Processing IDE.
 
