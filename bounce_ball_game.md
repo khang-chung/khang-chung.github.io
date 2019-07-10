@@ -8,7 +8,7 @@
 <br>
 This simple arcade game mimicks a one-player version of pong. I used the <a href = "https://processing.org/">Processing</a> integrated development environment(IDE) to develop this game. No libraries were used during this project, allowing for me to embed it into a website.
 
-<br>
+---
 
 The boundaries on the side as well as the ball change color upon contact. 
 
