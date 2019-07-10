@@ -6,7 +6,7 @@
 
 **Description**
 <br>
-This simple arcade game mimicks a one-player version of pong. I used the <a href = "https://processing.org/">Processing</a> integrated development environment(IDE) to develop this game. No libraries were used during this project, allowing for me to embed it into a website.
+This simple arcade game mimicks a one-player version of pong. I used the <a href = "https://processing.org/">Processing</a> integrated development environment(IDE) to develop this game. No libraries were used during this project. I used <a href = "https://processingjs.org/">ProcessingJS</a> to convert my Processing code, which is in Java, to JavaScript so that the program could run on a website.
 
 ---
 
@@ -19,4 +19,11 @@ Each time the ball hits the paddle, the player earns a point. Every 5 points, th
 <img src = "images/ball game image 3.png">
 
 The high score is saved per session, meaning if the game is closed out, the high score will be reset back to 0 when a new one is opened.
-<br>
+
+---
+
+**Source Code**
+ <br>
+<a href= "https://github.com/khang-chung/bounce_ball_game"> Project Repository on Github </a>
+
+---
