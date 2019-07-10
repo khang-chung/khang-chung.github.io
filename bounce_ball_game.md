@@ -1,6 +1,7 @@
 ## Bounce Ball Game
 
 <a href = "https://khang-chung.github.io/bounce_ball_game/"> Play The Game </a>
+
 <a href = "https://khang-chung.github.io/bounce_ball_game/"> <img src="images/ball game image 1.png"/> </a>
 
 **Description**
