@@ -24,6 +24,7 @@ The high score is saved per session, meaning if the game is closed out, the high
 
 **Source Code**
  <br>
+ *Instructions on how to use <a href = "processingjs.org/">ProcessingJS</a> in order to run a Processing program on a web browser is in the README in the project repository below*
 <a href= "https://github.com/khang-chung/bounce_ball_game"> Project Repository on Github </a>
 
 ---
