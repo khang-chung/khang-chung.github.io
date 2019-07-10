@@ -11,10 +11,10 @@
 My very first coding project done in the <a href ="https://processing.org/">Processing IDE</a>.
 
 ---
-<!---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
--->
+
+[Bounce Ball Game](bounce_ball_game.md)
+<img src="images/ball game image 1.png"/>
+
 
 <!---
 [Project 3 Title](http://example.com/)
