@@ -4,6 +4,7 @@
 **Description**
 <br>
 This simple interest calculator was my very first coding project in <a href ="https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html">Java</a>. I used the <a href = "https://processing.org/">Processing</a> integrated development environment(IDE) to build this calculator. In order to implement the button and input functions of the program, I used the <a href = "http://www.sojamo.de/libraries/controlP5/"> ControlP5 library </a>.
+Because of the use of this library, I was unable to embed it into a webpage, thus the reason for the download.
 <br>
 This program is used to calculate simple interest, or the interest charge on a loan. The calculator displays both the interest as well as the total(the beginning amount plus the interest).
 
