@@ -20,6 +20,8 @@ Each time the ball hits the paddle, the player earns a point. Every 5 points, th
 
 The high score is saved per session, meaning if the game is closed out, the high score will be reset back to 0 when a new one is opened.
 
+There are two mode, keyboard mode and mouse mode. Activate keyboard mode with "p" or the keyboard controls, or activate mouse mode with "o" and the paddle will follow your cursor.
+
 ---
 
 **Source Code**
