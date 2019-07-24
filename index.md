@@ -13,7 +13,7 @@ My very first coding project done in the <a href ="https://processing.org/">Proc
 ---
 
 [Bounce Ball Game](bounce_ball_game.md)
-<a href = "https://khang-chung.github.io/bounce_ball_game.html"> <img src="images/ball game image 1.png"/> </a>
+<a href = "https://khang-chung.github.io/bounce_ball_game.html"> <img src="images/ballgame update 1.png"/> </a>
 <br>
 A simple but addicting high score-type game done in the <a href ="https://processing.org/">Processing IDE</a>.
 
